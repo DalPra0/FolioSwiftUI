@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nome": "Camomila",
+    "nomeCientifico": "Matricaria chamomilla",
+    "imagemNome": "camomila",
+    "descricao": "Uma flor delicada conhecida por suas propriedades calmantes, ideal para relaxar antes de dormir.",
+    "beneficios": [
+      "Efeito calmante e relaxante",
+      "Auxilia na qualidade do sono",
+      "Alivia cólicas e desconfortos estomacais",
+      "Propriedades anti-inflamatórias"
+    ],
+    "preparo": "Adicione 1 colher de sopa de flores de camomila em 250ml de água fervente. Deixe em infusão por 5 a 10 minutos, coe e sirva.",
+    "contraindicacoes": "Geralmente seguro, mas deve ser evitado por pessoas com alergia a plantas da família Asteraceae."
+  },
+  {
+    "id": 2,
+    "nome": "Hortelã",
+    "nomeCientifico": "Mentha spicata",
+    "imagemNome": "hortela",
+    "descricao": "Refrescante e aromático, o chá de hortelã é um digestivo popular e ótimo para aliviar o hálito.",
+    "beneficios": [
+      "Melhora a digestão",
+      "Alivia náuseas e vômitos",
+      "Combate o mau hálito",
+      "Propriedades analgésicas para dores de cabeça"
+    ],
+    "preparo": "Adicione 1 colher de sopa de folhas frescas ou secas em 250ml de água fervente. Deixe em infusão por 5 a 7 minutos, coe e sirva.",
+    "contraindicacoes": "Evitar em caso de refluxo gastroesofágico severo, pois pode relaxar o esfíncter do esôfago."
+  },
+  {
+    "id": 3,
+    "nome": "Erva-doce",
+    "nomeCientifico": "Pimpinella anisum",
+    "imagemNome": "erva-doce",
+    "descricao": "Com um sabor adocicado e aroma de alcaçuz, a erva-doce é tradicionalmente usada para aliviar gases e cólicas.",
+    "beneficios": [
+      "Reduz gases e inchaço abdominal",
+      "Alivia cólicas, inclusive em bebês",
+      "Auxilia na produção de leite materno",
+      "Propriedades expectorantes"
+    ],
+    "preparo": "Adicione 1 colher de chá de sementes de erva-doce em 250ml de água fervente. Deixe em infusão por 10 minutos, coe e sirva.",
+    "contraindicacoes": "Não recomendado para mulheres grávidas ou com histórico de câncer de mama, ovário ou útero."
+  }
+]
